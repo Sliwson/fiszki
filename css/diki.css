@@ -1,0 +1,69 @@
+/*STYLESHEET FOR DIKI WIDGET*/
+.partOfSpeech {
+    font-style: italic;
+}
+
+.partOfSpeechSectionHeader {
+    margin-bottom: 5px;
+}
+
+.af {
+    font-weight: bold;
+}
+
+.foreignTermHeader {
+    font-weight: 100;
+    font-style: italic;
+}
+
+.foreignTermHeader::after {
+    content: ':';
+}
+
+.foreignTermText {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.hw a {
+    font-weight: bold;
+    color: #e8491d;
+}
+
+.exampleSentenceTranslation {
+    font-style: italic;
+    color: #786374;
+}
+
+.additionalSentences {
+    display: none;
+}
+
+.fentry {
+    display: none;
+}
+
+.dictionaryMeaningGroupHeaderAdditionalInformation {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.dictpict    {
+    display: none;
+}
+
+.meaningAdditionalInformation {
+    font-style: italic;
+}
+
+.nativeToForeignMeanings {
+    margin-left: 10px;
+}
+
+.ref {
+    display: none;
+}
+
+.cat {
+    display: none;
+}
